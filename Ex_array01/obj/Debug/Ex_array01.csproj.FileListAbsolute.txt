@@ -1,0 +1,8 @@
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\bin\Debug\Ex_array01.exe.config
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\bin\Debug\Ex_array01.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\bin\Debug\Ex_array01.pdb
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\obj\Debug\Ex_array01.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\obj\Debug\Ex_array01.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\obj\Debug\Ex_array01.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\obj\Debug\Ex_array01.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Exercícios Arrays\Ex_array01\Ex_array01\obj\Debug\Ex_array01.pdb
